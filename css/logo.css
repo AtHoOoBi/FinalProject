@@ -1,0 +1,10 @@
+body {
+  box-sizing: border-box;
+  background-color: rgb(13, 6, 53);
+}
+
+.oOo {
+  display: flex;
+  justify-content: center;
+  height: 100%;
+}
