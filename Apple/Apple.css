@@ -22,7 +22,7 @@
 }
 
 .v {
-  height: 230vh;
+  height: 253vh;
 }
 .b {
   display: flex;
@@ -39,18 +39,17 @@
 }
 
 .containe {
-  position: relative;
+  /* position: relative; */
   width: 50%;
 }
 
 .image {
   display: block;
-  width: 100%;
+  width: 80%;
   height: auto;
 }
 
 .overlay {
-  /* position: absolute; */
   bottom: 100%;
   left: 0;
   right: 0;
@@ -70,7 +69,6 @@
   white-space: nowrap;
   color: black;
   font-size: 20px;
-  /* position: absolute; */
   overflow: hidden;
   top: 50%;
   left: 50%;

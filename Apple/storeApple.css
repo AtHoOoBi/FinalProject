@@ -1,6 +1,7 @@
 * {
   box-sizing: border-box;
 }
+
 .main {
   max-width: 1000px;
   margin: auto;
@@ -9,6 +10,7 @@
 h1 {
   font-size: 50px;
   word-break: break-all;
+  color: #ffb700;
 }
 
 .row {
@@ -32,7 +34,7 @@ h1 {
 }
 
 .content {
-  background-color: white;
+  background-color: rgb(13, 6, 53);
   padding: 10px;
 }
 
@@ -53,10 +55,10 @@ h1 {
 }
 
 .btn.active {
-  background-color: #666;
+  background-color: #ffb700;
   color: white;
 }
 
 .maiin {
-  height: 200vh;
+  height: 400vh;
 }
