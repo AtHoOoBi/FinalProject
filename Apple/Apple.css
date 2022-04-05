@@ -1,7 +1,7 @@
 .card {
   box-shadow: 0 4px 8px 0 #ffb700;
   max-width: 300px;
-  margin: auto;
+  margin-left: 20vh;
   text-align: center;
   font-family: arial;
 }
@@ -51,8 +51,8 @@
 
 .overlay {
   bottom: 100%;
-  left: 0;
-  right: 0;
+  /* left: 0;
+  right: 0; */
   background-color: #fff;
   overflow: hidden;
   width: 100%;
